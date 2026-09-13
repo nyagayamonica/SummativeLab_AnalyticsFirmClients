@@ -299,10 +299,6 @@ customer-reviews-analysis/
 └── README.md
 ```
 
-> The dataset should be placed in the same working directory as the notebook unless the file path in the notebook is updated.
-
----
-
 ## How to Run the Project
 
 1. Clone or download the repository.
