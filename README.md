@@ -307,13 +307,6 @@ customer-reviews-analysis/
 4. Open `C09_M08.ipynb` in Jupyter Notebook, JupyterLab, or VS Code.
 5. Run the notebook cells in order from top to bottom.
 6. Ensure the required NLTK resources are downloaded when prompted.
-
-Example installation:
-
-```bash
-pip install pandas numpy matplotlib seaborn nltk scikit-learn tensorflow statsmodels scipy
-```
-
 ---
 
 ## Conclusion
